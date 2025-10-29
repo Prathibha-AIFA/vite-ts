@@ -1,0 +1,134 @@
+.book-alt-container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  min-height: 100%;
+  padding: 2rem 0;
+  box-sizing: border-box;
+}
+
+.book-alt-card {
+  display: flex;
+  gap: 2rem;
+  width: 100%;
+  max-width: 1100px;
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(2,6,23,0.06);
+  padding: 1.25rem;
+  box-sizing: border-box;
+}
+
+.form-side {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.book-alt-title {
+  font-size: 1.6rem;
+  margin-bottom: 0.75rem;
+  color: #111827;
+}
+
+.booking-form .field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.75rem;
+}
+
+.booking-form .field span {
+  font-size: 0.85rem;
+  color: #374151;
+  margin-bottom: 0.35rem;
+}
+
+.booking-form input,
+.booking-form select {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  background: #fff;
+}
+
+.row {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.field.small {
+  flex: 1 1 0;
+}
+
+.actions {
+  margin-top: 1rem;
+}
+
+.primary {
+  background: #4f46e5;
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.summary-side {
+  width: 320px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: flex-start;
+}
+
+.summary-card {
+  width: 100%;
+  background: #f8fafc;
+  border-radius: 10px;
+  padding: 1rem;
+  box-sizing: border-box;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);
+}
+
+.summary-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.05rem;
+  color: #111827;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+.summary-list .row-item {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #e6eef8;
+  color: #374151;
+}
+
+.summary-list .cta {
+  margin-top: 0.75rem;
+  display: flex;
+  justify-content: center;
+}
+
+.secondary {
+  background: #10b981;
+  color: #fff;
+  border: none;
+  padding: 0.65rem 0.9rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+@media (max-width: 900px) {
+  .book-alt-card {
+    flex-direction: column;
+  }
+  .summary-side {
+    width: 100%;
+  }
+}

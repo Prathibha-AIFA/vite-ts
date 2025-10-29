@@ -1,0 +1,2032 @@
+[
+  {
+    "id": 1,
+    "station_name": "Ar",
+    "station_code": "ROAD"
+  },
+  {
+    "id": 2,
+    "station_name": "Abr",
+    "station_code": "BE"
+  },
+  {
+    "id": 3,
+    "station_name": "Gaum",
+    "station_code": "BGM"
+  },
+  {
+    "id": 4,
+    "station_name": "Danapur",
+    "station_code": "DNR"
+  },
+  {
+    "id": 5,
+    "station_name": "Abad",
+    "station_code": "ADB"
+  },
+  {
+    "id": 6,
+    "station_name": "Bay",
+    "station_code": "DARBH"
+  },
+  {
+    "id": 7,
+    "station_name": "Anga",
+    "station_code": "DBG"
+  },
+  {
+    "id": 8,
+    "station_name": "Ad",
+    "station_code": "BETT"
+  },
+  {
+    "id": 9,
+    "station_name": "Ah",
+    "station_code": "BTH"
+  },
+  {
+    "id": 10,
+    "station_name": "Daund",
+    "station_code": "DD"
+  },
+  {
+    "id": 11,
+    "station_name": "Adra",
+    "station_code": "ADRA"
+  },
+  {
+    "id": 12,
+    "station_name": "Bzu",
+    "station_code": "DAVAN"
+  },
+  {
+    "id": 13,
+    "station_name": "Gere",
+    "station_code": "DVG"
+  },
+  {
+    "id": 14,
+    "station_name": "Hanumangarh",
+    "station_code": "HMH"
+  },
+  {
+    "id": 15,
+    "station_name": "Boy",
+    "station_code": "DEHRA"
+  },
+  {
+    "id": 16,
+    "station_name": "Dun",
+    "station_code": "DDN"
+  },
+  {
+    "id": 17,
+    "station_name": "Hapa",
+    "station_code": "HAPA"
+  },
+  {
+    "id": 18,
+    "station_name": "Agra",
+    "station_code": "FORT"
+  },
+  {
+    "id": 19,
+    "station_name": "Af",
+    "station_code": "BHADR"
+  },
+  {
+    "id": 20,
+    "station_name": "Ak",
+    "station_code": "BHC"
+  },
+  {
+    "id": 21,
+    "station_name": "One",
+    "station_code": "DO"
+  },
+  {
+    "id": 22,
+    "station_name": "Hapur",
+    "station_code": "HPU"
+  },
+  {
+    "id": 23,
+    "station_name": "Tapur",
+    "station_code": "CANTT"
+  },
+  {
+    "id": 24,
+    "station_name": "Agc",
+    "station_code": "BHAGA"
+  },
+  {
+    "id": 25,
+    "station_name": "Lpur",
+    "station_code": "BGP"
+  },
+  {
+    "id": 26,
+    "station_name": "Delhi",
+    "station_code": "DLI"
+  },
+  {
+    "id": 27,
+    "station_name": "Harda",
+    "station_code": "HD"
+  },
+  {
+    "id": 28,
+    "station_name": "Ahmadnagar",
+    "station_code": "ANG"
+  },
+  {
+    "id": 29,
+    "station_name": "New",
+    "station_code": "DELHI"
+  },
+  {
+    "id": 30,
+    "station_name": "Ndls",
+    "station_code": "HAR"
+  },
+  {
+    "id": 31,
+    "station_name": "Dwar",
+    "station_code": "HW"
+  },
+  {
+    "id": 32,
+    "station_name": "Ahmedabad",
+    "station_code": "ADI"
+  },
+  {
+    "id": 33,
+    "station_name": "Bharatpur",
+    "station_code": "BTE"
+  },
+  {
+    "id": 34,
+    "station_name": "Cantt.",
+    "station_code": "DEC"
+  },
+  {
+    "id": 35,
+    "station_name": "Har",
+    "station_code": "HRR"
+  },
+  {
+    "id": 36,
+    "station_name": "Ajmer",
+    "station_code": "AII"
+  },
+  {
+    "id": 37,
+    "station_name": "Ha",
+    "station_code": "BH"
+  },
+  {
+    "id": 38,
+    "station_name": "Delhi",
+    "station_code": "SARAI"
+  },
+  {
+    "id": 39,
+    "station_name": "Rohilla",
+    "station_code": "DEE"
+  },
+  {
+    "id": 40,
+    "station_name": "Pur",
+    "station_code": "HPP"
+  },
+  {
+    "id": 41,
+    "station_name": "Bhatapara",
+    "station_code": "BYT"
+  },
+  {
+    "id": 42,
+    "station_name": "A Ak",
+    "station_code": "BHATK"
+  },
+  {
+    "id": 43,
+    "station_name": "Adar",
+    "station_code": "DEO"
+  },
+  {
+    "id": 44,
+    "station_name": "Hatia",
+    "station_code": "HTE"
+  },
+  {
+    "id": 45,
+    "station_name": "Btt",
+    "station_code": "DEV"
+  },
+  {
+    "id": 46,
+    "station_name": "B Nanded",
+    "station_code": "NED"
+  },
+  {
+    "id": 47,
+    "station_name": "Bhavnagar (T)",
+    "station_code": "BVC"
+  },
+  {
+    "id": 48,
+    "station_name": "Dhamangaon",
+    "station_code": "DMN"
+  },
+  {
+    "id": 49,
+    "station_name": "Allahabad",
+    "station_code": "ALD"
+  },
+  {
+    "id": 50,
+    "station_name": "Patna",
+    "station_code": "BWP"
+  },
+  {
+    "id": 51,
+    "station_name": "Dhanbad",
+    "station_code": "DHN"
+  },
+  {
+    "id": 52,
+    "station_name": "Sriganga",
+    "station_code": "NAGAR"
+  },
+  {
+    "id": 53,
+    "station_name": "Dharmabad",
+    "station_code": "DAB"
+  },
+  {
+    "id": 54,
+    "station_name": "Ndupur",
+    "station_code": "HUP"
+  },
+  {
+    "id": 55,
+    "station_name": "Bvrt",
+    "station_code": "DHARM"
+  },
+  {
+    "id": 56,
+    "station_name": "Anagar",
+    "station_code": "DMR"
+  },
+  {
+    "id": 57,
+    "station_name": "Uva",
+    "station_code": "AWY"
+  },
+  {
+    "id": 58,
+    "station_name": "U B A M",
+    "station_code": "TOWN"
+  },
+  {
+    "id": 59,
+    "station_name": "War",
+    "station_code": "AWR"
+  },
+  {
+    "id": 60,
+    "station_name": "X Dharmavaram",
+    "station_code": "DMM"
+  },
+  {
+    "id": 61,
+    "station_name": "Hangabad",
+    "station_code": "HBD"
+  },
+  {
+    "id": 62,
+    "station_name": "Ner",
+    "station_code": "AN"
+  },
+  {
+    "id": 63,
+    "station_name": "Bnw",
+    "station_code": "DHARW"
+  },
+  {
+    "id": 64,
+    "station_name": "Ad",
+    "station_code": "DWR"
+  },
+  {
+    "id": 65,
+    "station_name": "Pet",
+    "station_code": "HPT"
+  },
+  {
+    "id": 66,
+    "station_name": "Amb",
+    "station_code": "ANDAV"
+  },
+  {
+    "id": 67,
+    "station_name": "Ra",
+    "station_code": "AADR"
+  },
+  {
+    "id": 68,
+    "station_name": "Bhopal",
+    "station_code": "BP"
+  },
+  {
+    "id": 69,
+    "station_name": "A Cantt.",
+    "station_code": "UMB"
+  },
+  {
+    "id": 70,
+    "station_name": "Bhubaneswar",
+    "station_code": "BB"
+  },
+  {
+    "id": 71,
+    "station_name": "Pur",
+    "station_code": "DHO"
+  },
+  {
+    "id": 72,
+    "station_name": "Howbadh",
+    "station_code": "HBG"
+  },
+  {
+    "id": 73,
+    "station_name": "Kapur",
+    "station_code": "ABKP"
+  },
+  {
+    "id": 74,
+    "station_name": "Bhuj",
+    "station_code": "BHUJ"
+  },
+  {
+    "id": 75,
+    "station_name": "Howrah",
+    "station_code": "HWH"
+  },
+  {
+    "id": 76,
+    "station_name": "A Bhusaval",
+    "station_code": "BSL"
+  },
+  {
+    "id": 77,
+    "station_name": "Hubli",
+    "station_code": "UBL"
+  },
+  {
+    "id": 78,
+    "station_name": "Amritsar",
+    "station_code": "ASR"
+  },
+  {
+    "id": 79,
+    "station_name": "P Dhone",
+    "station_code": "DHNE"
+  },
+  {
+    "id": 80,
+    "station_name": "Hyderabad",
+    "station_code": "HYB"
+  },
+  {
+    "id": 81,
+    "station_name": "O Dhrangadhra",
+    "station_code": "DHG"
+  },
+  {
+    "id": 82,
+    "station_name": "Anand",
+    "station_code": "ANND"
+  },
+  {
+    "id": 83,
+    "station_name": "Bikaner",
+    "station_code": "BKN"
+  },
+  {
+    "id": 84,
+    "station_name": "Andn",
+    "station_code": "BILAS"
+  },
+  {
+    "id": 85,
+    "station_name": "Bsp",
+    "station_code": "DHUR"
+  },
+  {
+    "id": 86,
+    "station_name": "Indore",
+    "station_code": "INDB"
+  },
+  {
+    "id": 87,
+    "station_name": "Har",
+    "station_code": "TERM"
+  },
+  {
+    "id": 88,
+    "station_name": "Na",
+    "station_code": "DIBRU"
+  },
+  {
+    "id": 89,
+    "station_name": "Garh",
+    "station_code": "DBRG"
+  },
+  {
+    "id": 90,
+    "station_name": "Anantapur",
+    "station_code": "ATP"
+  },
+  {
+    "id": 91,
+    "station_name": "Dbrt",
+    "station_code": "ITARS"
+  },
+  {
+    "id": 92,
+    "station_name": "Rur",
+    "station_code": "RRB"
+  },
+  {
+    "id": 93,
+    "station_name": "Gha",
+    "station_code": "DGHA"
+  },
+  {
+    "id": 94,
+    "station_name": "Jabalpur",
+    "station_code": "JBP"
+  },
+  {
+    "id": 95,
+    "station_name": "Annavaram",
+    "station_code": "ANV"
+  },
+  {
+    "id": 96,
+    "station_name": "Tragunta",
+    "station_code": "BTTR"
+  },
+  {
+    "id": 97,
+    "station_name": "N Jagdalpur",
+    "station_code": "JDB"
+  },
+  {
+    "id": 98,
+    "station_name": "Anuppur",
+    "station_code": "APR"
+  },
+  {
+    "id": 99,
+    "station_name": "R Nab",
+    "station_code": "RA"
+  },
+  {
+    "id": 100,
+    "station_name": "Garh",
+    "station_code": "BRRG"
+  },
+  {
+    "id": 101,
+    "station_name": "Mapur",
+    "station_code": "DMV"
+  },
+  {
+    "id": 102,
+    "station_name": "Jaipur",
+    "station_code": "JP"
+  },
+  {
+    "id": 103,
+    "station_name": "Ara",
+    "station_code": "ARA"
+  },
+  {
+    "id": 104,
+    "station_name": "Dg",
+    "station_code": "JAYPU"
+  },
+  {
+    "id": 105,
+    "station_name": "Nda",
+    "station_code": "BONA"
+  },
+  {
+    "id": 106,
+    "station_name": "Dongargarh",
+    "station_code": "DGG"
+  },
+  {
+    "id": 107,
+    "station_name": "Jaisalmer",
+    "station_code": "JSM"
+  },
+  {
+    "id": 108,
+    "station_name": "Pur",
+    "station_code": "KEON"
+  },
+  {
+    "id": 109,
+    "station_name": "N Baghbahar",
+    "station_code": "BGBR"
+  },
+  {
+    "id": 110,
+    "station_name": "Dungarpur",
+    "station_code": "DNRP"
+  },
+  {
+    "id": 111,
+    "station_name": "Har",
+    "station_code": "AR"
+  },
+  {
+    "id": 112,
+    "station_name": "Bokaro",
+    "station_code": "STEEL"
+  },
+  {
+    "id": 113,
+    "station_name": "City",
+    "station_code": "BKSC"
+  },
+  {
+    "id": 114,
+    "station_name": "Durg",
+    "station_code": "DURG"
+  },
+  {
+    "id": 115,
+    "station_name": "Aurangabad",
+    "station_code": "AWB"
+  },
+  {
+    "id": 116,
+    "station_name": "Ketan",
+    "station_code": "BHP"
+  },
+  {
+    "id": 117,
+    "station_name": "Durgapur",
+    "station_code": "DGR"
+  },
+  {
+    "id": 118,
+    "station_name": "Ayodhya",
+    "station_code": "AY"
+  },
+  {
+    "id": 119,
+    "station_name": "Duvvada",
+    "station_code": "DVD"
+  },
+  {
+    "id": 120,
+    "station_name": "Azamgarh",
+    "station_code": "AMH"
+  },
+  {
+    "id": 121,
+    "station_name": "Botad",
+    "station_code": "BTD"
+  },
+  {
+    "id": 122,
+    "station_name": "Dwarka",
+    "station_code": "DWK"
+  },
+  {
+    "id": 123,
+    "station_name": "Az",
+    "station_code": "BUDAU"
+  },
+  {
+    "id": 124,
+    "station_name": "N A A A A R A R R B T G H P A O A A D W T R O N R",
+    "station_code": "EE"
+  },
+  {
+    "id": 125,
+    "station_name": "Badarpur",
+    "station_code": "BPB"
+  },
+  {
+    "id": 126,
+    "station_name": "Bd",
+    "station_code": "BURHA"
+  },
+  {
+    "id": 127,
+    "station_name": "Npur",
+    "station_code": "BAU"
+  },
+  {
+    "id": 128,
+    "station_name": "Kot",
+    "station_code": "BGK"
+  },
+  {
+    "id": 129,
+    "station_name": "Buw",
+    "station_code": "ERODE"
+  },
+  {
+    "id": 130,
+    "station_name": "Ed",
+    "station_code": "JAMMU"
+  },
+  {
+    "id": 131,
+    "station_name": "Tawi",
+    "station_code": "JAT"
+  },
+  {
+    "id": 132,
+    "station_name": "Bpm",
+    "station_code": "BUXAR"
+  },
+  {
+    "id": 133,
+    "station_name": "Bxr",
+    "station_code": "ETAWA"
+  },
+  {
+    "id": 134,
+    "station_name": "H Etw",
+    "station_code": "JAMNA"
+  },
+  {
+    "id": 135,
+    "station_name": "Gar",
+    "station_code": "JAM"
+  },
+  {
+    "id": 136,
+    "station_name": "Dyanathdham",
+    "station_code": "BDME"
+  },
+  {
+    "id": 137,
+    "station_name": "Canacona",
+    "station_code": "CNO"
+  },
+  {
+    "id": 138,
+    "station_name": "Zabad",
+    "station_code": "FD"
+  },
+  {
+    "id": 139,
+    "station_name": "Yarpur",
+    "station_code": "BKP"
+  },
+  {
+    "id": 140,
+    "station_name": "A Caa",
+    "station_code": "FAR"
+  },
+  {
+    "id": 141,
+    "station_name": "Dabad",
+    "station_code": "FDB"
+  },
+  {
+    "id": 142,
+    "station_name": "Bank",
+    "station_code": "CHKB"
+  },
+  {
+    "id": 143,
+    "station_name": "Farrukhabad",
+    "station_code": "FBD"
+  },
+  {
+    "id": 144,
+    "station_name": "Aghat",
+    "station_code": "BTC"
+  },
+  {
+    "id": 145,
+    "station_name": "Chakradharpur",
+    "station_code": "CKP"
+  },
+  {
+    "id": 146,
+    "station_name": "Bdc",
+    "station_code": "CHAND"
+  },
+  {
+    "id": 147,
+    "station_name": "Ftd",
+    "station_code": "JAYNA"
+  },
+  {
+    "id": 148,
+    "station_name": "Gar",
+    "station_code": "JYG"
+  },
+  {
+    "id": 149,
+    "station_name": "Gr",
+    "station_code": "CHA"
+  },
+  {
+    "id": 150,
+    "station_name": "N Fatehpur",
+    "station_code": "FTP"
+  },
+  {
+    "id": 151,
+    "station_name": "Ugaon",
+    "station_code": "BA"
+  },
+  {
+    "id": 152,
+    "station_name": "U Champa",
+    "station_code": "CPH"
+  },
+  {
+    "id": 153,
+    "station_name": "Fatuha",
+    "station_code": "FUT"
+  },
+  {
+    "id": 154,
+    "station_name": "Ch",
+    "station_code": "FAZ"
+  },
+  {
+    "id": 155,
+    "station_name": "Ka",
+    "station_code": "FKA"
+  },
+  {
+    "id": 156,
+    "station_name": "Jhansi",
+    "station_code": "JHS"
+  },
+  {
+    "id": 157,
+    "station_name": "Hah",
+    "station_code": "BPQ"
+  },
+  {
+    "id": 158,
+    "station_name": "Ya",
+    "station_code": "CNA"
+  },
+  {
+    "id": 159,
+    "station_name": "Rozabad",
+    "station_code": "FZD"
+  },
+  {
+    "id": 160,
+    "station_name": "Chandigarh",
+    "station_code": "CDG"
+  },
+  {
+    "id": 161,
+    "station_name": "Udaipur",
+    "station_code": "CITY"
+  },
+  {
+    "id": 162,
+    "station_name": "Banarhat",
+    "station_code": "BNQ"
+  },
+  {
+    "id": 163,
+    "station_name": "Rapur",
+    "station_code": "CD"
+  },
+  {
+    "id": 164,
+    "station_name": "Fbg",
+    "station_code": "JODHP"
+  },
+  {
+    "id": 165,
+    "station_name": "Ur",
+    "station_code": "JU"
+  },
+  {
+    "id": 166,
+    "station_name": "Rapura",
+    "station_code": "CRP"
+  },
+  {
+    "id": 167,
+    "station_name": "Ng",
+    "station_code": "FKG"
+  },
+  {
+    "id": 168,
+    "station_name": "Chaparmukh",
+    "station_code": "CPK"
+  },
+  {
+    "id": 169,
+    "station_name": "Gadag",
+    "station_code": "GDG"
+  },
+  {
+    "id": 170,
+    "station_name": "Bandra (T)",
+    "station_code": "BDTS"
+  },
+  {
+    "id": 171,
+    "station_name": "Chatrapur",
+    "station_code": "CAP"
+  },
+  {
+    "id": 172,
+    "station_name": "Bnc",
+    "station_code": "CHENG"
+  },
+  {
+    "id": 173,
+    "station_name": "Gandhidham",
+    "station_code": "GIM"
+  },
+  {
+    "id": 174,
+    "station_name": "Annur",
+    "station_code": "CNGR"
+  },
+  {
+    "id": 175,
+    "station_name": "Nagar",
+    "station_code": "GAD"
+  },
+  {
+    "id": 176,
+    "station_name": "Kacheguda",
+    "station_code": "KCG"
+  },
+  {
+    "id": 177,
+    "station_name": "Bangarapet",
+    "station_code": "BWT"
+  },
+  {
+    "id": 178,
+    "station_name": "Mangalore",
+    "station_code": "CENTR"
+  },
+  {
+    "id": 179,
+    "station_name": "Al",
+    "station_code": "MAS"
+  },
+  {
+    "id": 180,
+    "station_name": "Ty",
+    "station_code": "GGC"
+  },
+  {
+    "id": 181,
+    "station_name": "Ore",
+    "station_code": "PORT"
+  },
+  {
+    "id": 182,
+    "station_name": "Bgy",
+    "station_code": "CHENN"
+  },
+  {
+    "id": 183,
+    "station_name": "Ai",
+    "station_code": "EGMOR"
+  },
+  {
+    "id": 184,
+    "station_name": "E Ms",
+    "station_code": "GARWA"
+  },
+  {
+    "id": 185,
+    "station_name": "Road",
+    "station_code": "GHD"
+  },
+  {
+    "id": 186,
+    "station_name": "Bankura",
+    "station_code": "BQA"
+  },
+  {
+    "id": 187,
+    "station_name": "Chhapra",
+    "station_code": "CPR"
+  },
+  {
+    "id": 188,
+    "station_name": "Gaya",
+    "station_code": "GAYA"
+  },
+  {
+    "id": 189,
+    "station_name": "Ndwara",
+    "station_code": "CWA"
+  },
+  {
+    "id": 190,
+    "station_name": "Gad",
+    "station_code": "KA"
+  },
+  {
+    "id": 191,
+    "station_name": "Bwn",
+    "station_code": "CH"
+  },
+  {
+    "id": 192,
+    "station_name": "Dambaram",
+    "station_code": "CDM"
+  },
+  {
+    "id": 193,
+    "station_name": "Yan",
+    "station_code": "KYN"
+  },
+  {
+    "id": 194,
+    "station_name": "Ru",
+    "station_code": "GHAZ"
+  },
+  {
+    "id": 195,
+    "station_name": "Abad",
+    "station_code": "GZB"
+  },
+  {
+    "id": 196,
+    "station_name": "Kamakhya",
+    "station_code": "KYQ"
+  },
+  {
+    "id": 197,
+    "station_name": "Pt",
+    "station_code": "KANCH"
+  },
+  {
+    "id": 198,
+    "station_name": "Baran",
+    "station_code": "BAZ"
+  },
+  {
+    "id": 199,
+    "station_name": "X Godhra",
+    "station_code": "GDA"
+  },
+  {
+    "id": 200,
+    "station_name": "Trakootdham",
+    "station_code": "KARV"
+  },
+  {
+    "id": 201,
+    "station_name": "R Car",
+    "station_code": "GO"
+  },
+  {
+    "id": 202,
+    "station_name": "A Gokarannath",
+    "station_code": "GK"
+  },
+  {
+    "id": 203,
+    "station_name": "Kanniyakumari",
+    "station_code": "CAPE"
+  },
+  {
+    "id": 204,
+    "station_name": "Baraut",
+    "station_code": "BTU"
+  },
+  {
+    "id": 205,
+    "station_name": "An",
+    "station_code": "CR"
+  },
+  {
+    "id": 206,
+    "station_name": "Gonda",
+    "station_code": "GD"
+  },
+  {
+    "id": 207,
+    "station_name": "Kannur",
+    "station_code": "CAN"
+  },
+  {
+    "id": 208,
+    "station_name": "Ttaurgarh",
+    "station_code": "COR"
+  },
+  {
+    "id": 209,
+    "station_name": "A G",
+    "station_code": "KANPU"
+  },
+  {
+    "id": 210,
+    "station_name": "R Central",
+    "station_code": "CNB"
+  },
+  {
+    "id": 211,
+    "station_name": "Ttoor",
+    "station_code": "CTO"
+  },
+  {
+    "id": 212,
+    "station_name": "Gooty",
+    "station_code": "GY"
+  },
+  {
+    "id": 213,
+    "station_name": "Kanpur",
+    "station_code": "ANWAR"
+  },
+  {
+    "id": 214,
+    "station_name": "Y Be",
+    "station_code": "CHOPA"
+  },
+  {
+    "id": 215,
+    "station_name": "N Cpu",
+    "station_code": "GORAK"
+  },
+  {
+    "id": 216,
+    "station_name": "Hpur",
+    "station_code": "GKP"
+  },
+  {
+    "id": 217,
+    "station_name": "Brga",
+    "station_code": "CHUNA"
+  },
+  {
+    "id": 218,
+    "station_name": "Ngaon",
+    "station_code": "HAT"
+  },
+  {
+    "id": 219,
+    "station_name": "Gogh",
+    "station_code": "KARA"
+  },
+  {
+    "id": 220,
+    "station_name": "Bny",
+    "station_code": "CHURU"
+  },
+  {
+    "id": 221,
+    "station_name": "Cur",
+    "station_code": "GUD"
+  },
+  {
+    "id": 222,
+    "station_name": "Vada",
+    "station_code": "GDV"
+  },
+  {
+    "id": 223,
+    "station_name": "N.",
+    "station_code": "KKD"
+  },
+  {
+    "id": 224,
+    "station_name": "Barkakana",
+    "station_code": "BRKA"
+  },
+  {
+    "id": 225,
+    "station_name": "Mangalore",
+    "station_code": "JN"
+  },
+  {
+    "id": 226,
+    "station_name": "Cbe",
+    "station_code": "GUDUR"
+  },
+  {
+    "id": 227,
+    "station_name": "Gdr",
+    "station_code": "KAR"
+  },
+  {
+    "id": 228,
+    "station_name": "Barmer",
+    "station_code": "BME"
+  },
+  {
+    "id": 229,
+    "station_name": "Coonoor",
+    "station_code": "ONR"
+  },
+  {
+    "id": 230,
+    "station_name": "Barga",
+    "station_code": "GR"
+  },
+  {
+    "id": 231,
+    "station_name": "Barog",
+    "station_code": "BOF"
+  },
+  {
+    "id": 232,
+    "station_name": "Guna",
+    "station_code": "GUNA"
+  },
+  {
+    "id": 233,
+    "station_name": "Karur",
+    "station_code": "KRR"
+  },
+  {
+    "id": 234,
+    "station_name": "Boe",
+    "station_code": "CUDDA"
+  },
+  {
+    "id": 235,
+    "station_name": "Pah",
+    "station_code": "HX"
+  },
+  {
+    "id": 236,
+    "station_name": "Karwar",
+    "station_code": "KAWR"
+  },
+  {
+    "id": 237,
+    "station_name": "H Brwd",
+    "station_code": "CUTTA"
+  },
+  {
+    "id": 238,
+    "station_name": "Ck",
+    "station_code": "CTC"
+  },
+  {
+    "id": 239,
+    "station_name": "Guntur",
+    "station_code": "GNT"
+  },
+  {
+    "id": 240,
+    "station_name": "Aragod",
+    "station_code": "KGQ"
+  },
+  {
+    "id": 241,
+    "station_name": "X Dadar",
+    "station_code": "DR"
+  },
+  {
+    "id": 242,
+    "station_name": "Gurgaon",
+    "station_code": "GGN"
+  },
+  {
+    "id": 243,
+    "station_name": "Drd",
+    "station_code": "GURUV"
+  },
+  {
+    "id": 244,
+    "station_name": "Ayur",
+    "station_code": "GUV"
+  },
+  {
+    "id": 245,
+    "station_name": "Kathgodam",
+    "station_code": "KGM"
+  },
+  {
+    "id": 246,
+    "station_name": "Dahod",
+    "station_code": "DHD"
+  },
+  {
+    "id": 247,
+    "station_name": "Guwahati",
+    "station_code": "GHY"
+  },
+  {
+    "id": 248,
+    "station_name": "Katihar",
+    "station_code": "KIR"
+  },
+  {
+    "id": 249,
+    "station_name": "Bayana",
+    "station_code": "BXN"
+  },
+  {
+    "id": 250,
+    "station_name": "O Gwalior",
+    "station_code": "GWL"
+  },
+  {
+    "id": 251,
+    "station_name": "Dto",
+    "station_code": "GYANP"
+  },
+  {
+    "id": 252,
+    "station_name": "Gyn",
+    "station_code": "KATN"
+  },
+  {
+    "id": 253,
+    "station_name": "Murwara",
+    "station_code": "KMZ"
+  },
+  {
+    "id": 254,
+    "station_name": "Beawar",
+    "station_code": "BER"
+  },
+  {
+    "id": 255,
+    "station_name": "Hara",
+    "station_code": "DRZ"
+  },
+  {
+    "id": 256,
+    "station_name": "Habibganj",
+    "station_code": "HBJ"
+  },
+  {
+    "id": 257,
+    "station_name": "Apur",
+    "station_code": "BAP"
+  },
+  {
+    "id": 258,
+    "station_name": "Damoh",
+    "station_code": "DMO"
+  },
+  {
+    "id": 259,
+    "station_name": "Hajipur",
+    "station_code": "HJP"
+  },
+  {
+    "id": 260,
+    "station_name": "Katwa",
+    "station_code": "KWAE"
+  },
+  {
+    "id": 261,
+    "station_name": "Pet",
+    "station_code": "KZ"
+  },
+  {
+    "id": 262,
+    "station_name": "Moradabad",
+    "station_code": "MB"
+  },
+  {
+    "id": 263,
+    "station_name": "Ng",
+    "station_code": "MOT"
+  },
+  {
+    "id": 264,
+    "station_name": "Hargarh",
+    "station_code": "KD"
+  },
+  {
+    "id": 265,
+    "station_name": "R Mudkhed",
+    "station_code": "MUE"
+  },
+  {
+    "id": 266,
+    "station_name": "A Kgg",
+    "station_code": "MUGHA"
+  },
+  {
+    "id": 267,
+    "station_name": "Lsarai",
+    "station_code": "MGS"
+  },
+  {
+    "id": 268,
+    "station_name": "Ya",
+    "station_code": "PP"
+  },
+  {
+    "id": 269,
+    "station_name": "Al",
+    "station_code": "BCT"
+  },
+  {
+    "id": 270,
+    "station_name": "Puri",
+    "station_code": "PURI"
+  },
+  {
+    "id": 271,
+    "station_name": "Khammam",
+    "station_code": "KMT"
+  },
+  {
+    "id": 272,
+    "station_name": "Mumbai",
+    "station_code": "CST"
+  },
+  {
+    "id": 273,
+    "station_name": "Cstm",
+    "station_code": "PURNA"
+  },
+  {
+    "id": 274,
+    "station_name": "Khandwa",
+    "station_code": "KNW"
+  },
+  {
+    "id": 275,
+    "station_name": "Guda",
+    "station_code": "MNGD"
+  },
+  {
+    "id": 276,
+    "station_name": "Rpur",
+    "station_code": "KAGAZ"
+  },
+  {
+    "id": 277,
+    "station_name": "Kharagpur",
+    "station_code": "KGP"
+  },
+  {
+    "id": 278,
+    "station_name": "Khekra",
+    "station_code": "KEX"
+  },
+  {
+    "id": 279,
+    "station_name": "Ek",
+    "station_code": "MZ"
+  },
+  {
+    "id": 280,
+    "station_name": "Kapur",
+    "station_code": "RDP"
+  },
+  {
+    "id": 281,
+    "station_name": "Wa",
+    "station_code": "BAZAR"
+  },
+  {
+    "id": 282,
+    "station_name": "Kur",
+    "station_code": "MURTA"
+  },
+  {
+    "id": 283,
+    "station_name": "Apur",
+    "station_code": "MZR"
+  },
+  {
+    "id": 284,
+    "station_name": "Rae",
+    "station_code": "BARE"
+  },
+  {
+    "id": 285,
+    "station_name": "Chur",
+    "station_code": "RC"
+  },
+  {
+    "id": 286,
+    "station_name": "Kishanganj",
+    "station_code": "KNE"
+  },
+  {
+    "id": 287,
+    "station_name": "Muzaffarpur",
+    "station_code": "MFP"
+  },
+  {
+    "id": 288,
+    "station_name": "G Mysore",
+    "station_code": "MYS"
+  },
+  {
+    "id": 289,
+    "station_name": "Pdham",
+    "station_code": "NDAE"
+  },
+  {
+    "id": 290,
+    "station_name": "Kochuveli",
+    "station_code": "KCVL"
+  },
+  {
+    "id": 291,
+    "station_name": "Ad",
+    "station_code": "ND"
+  },
+  {
+    "id": 292,
+    "station_name": "Road",
+    "station_code": "KQN"
+  },
+  {
+    "id": 293,
+    "station_name": "Kolkata",
+    "station_code": "KOAA"
+  },
+  {
+    "id": 294,
+    "station_name": "Nam",
+    "station_code": "NGT"
+  },
+  {
+    "id": 295,
+    "station_name": "Rajendranagar",
+    "station_code": "RJQ"
+  },
+  {
+    "id": 296,
+    "station_name": "Nagrakata",
+    "station_code": "NKB"
+  },
+  {
+    "id": 297,
+    "station_name": "Kopergaon",
+    "station_code": "KPG"
+  },
+  {
+    "id": 298,
+    "station_name": "Rajkot",
+    "station_code": "RJT"
+  },
+  {
+    "id": 299,
+    "station_name": "Koraput",
+    "station_code": "KRPU"
+  },
+  {
+    "id": 300,
+    "station_name": "Korba",
+    "station_code": "KRBA"
+  },
+  {
+    "id": 301,
+    "station_name": "Nagda",
+    "station_code": "NAD"
+  },
+  {
+    "id": 302,
+    "station_name": "Pura",
+    "station_code": "RP"
+  },
+  {
+    "id": 303,
+    "station_name": "Sri",
+    "station_code": "CHHAT"
+  },
+  {
+    "id": 304,
+    "station_name": "Kota",
+    "station_code": "KOTA"
+  },
+  {
+    "id": 305,
+    "station_name": "Ncj",
+    "station_code": "RAMAG"
+  },
+  {
+    "id": 306,
+    "station_name": "Undam",
+    "station_code": "RDM"
+  },
+  {
+    "id": 307,
+    "station_name": "Shahu",
+    "station_code": "MAHAR"
+  },
+  {
+    "id": 308,
+    "station_name": "Aj (T)",
+    "station_code": "CSMT"
+  },
+  {
+    "id": 309,
+    "station_name": "Kotdwara",
+    "station_code": "KTW"
+  },
+  {
+    "id": 310,
+    "station_name": "Nagore",
+    "station_code": "NCR"
+  },
+  {
+    "id": 311,
+    "station_name": "Ramanathapuram",
+    "station_code": "RMD"
+  },
+  {
+    "id": 312,
+    "station_name": "Kot",
+    "station_code": "KAPUR"
+  },
+  {
+    "id": 313,
+    "station_name": "A Kkp",
+    "station_code": "NAGPU"
+  },
+  {
+    "id": 314,
+    "station_name": "R Ngp",
+    "station_code": "RAMES"
+  },
+  {
+    "id": 315,
+    "station_name": "Waram",
+    "station_code": "RMM"
+  },
+  {
+    "id": 316,
+    "station_name": "Kottayam",
+    "station_code": "KTYM"
+  },
+  {
+    "id": 317,
+    "station_name": "Ramnagar",
+    "station_code": "RMR"
+  },
+  {
+    "id": 318,
+    "station_name": "H R E G",
+    "station_code": "OMOH"
+  },
+  {
+    "id": 319,
+    "station_name": "T .",
+    "station_code": "NORTH"
+  },
+  {
+    "id": 320,
+    "station_name": "O O N W D E A R",
+    "station_code": "HA"
+  },
+  {
+    "id": 321,
+    "station_name": "U A R M",
+    "station_code": "BAGAR"
+  },
+  {
+    "id": 322,
+    "station_name": "R R U U P P A P T U I R T T P U",
+    "station_code": "TY"
+  },
+  {
+    "id": 323,
+    "station_name": "Lucknow",
+    "station_code": "LJN"
+  },
+  {
+    "id": 324,
+    "station_name": "Mg",
+    "station_code": "NEW"
+  },
+  {
+    "id": 325,
+    "station_name": "Delhi",
+    "station_code": "NDLS"
+  },
+  {
+    "id": 326,
+    "station_name": "Farakka",
+    "station_code": "NFK"
+  },
+  {
+    "id": 327,
+    "station_name": "Jalpaiguri",
+    "station_code": "NJP"
+  },
+  {
+    "id": 328,
+    "station_name": "Re",
+    "station_code": "THR"
+  },
+  {
+    "id": 329,
+    "station_name": "Ur",
+    "station_code": "TCR"
+  },
+  {
+    "id": 330,
+    "station_name": "Hc",
+    "station_code": "THIRU"
+  },
+  {
+    "id": 331,
+    "station_name": "Vananthapuram",
+    "station_code": "TVC"
+  },
+  {
+    "id": 332,
+    "station_name": "Patnam",
+    "station_code": "MTM"
+  },
+  {
+    "id": 333,
+    "station_name": "Hat",
+    "station_code": "MDT"
+  },
+  {
+    "id": 334,
+    "station_name": "Maddur",
+    "station_code": "MAD"
+  },
+  {
+    "id": 335,
+    "station_name": "Am",
+    "station_code": "NM"
+  },
+  {
+    "id": 336,
+    "station_name": "Madgaon (Goa)",
+    "station_code": "MAO"
+  },
+  {
+    "id": 337,
+    "station_name": "Ru",
+    "station_code": "TUN"
+  },
+  {
+    "id": 338,
+    "station_name": "Mach",
+    "station_code": "NMH"
+  },
+  {
+    "id": 339,
+    "station_name": "O Tuticorin",
+    "station_code": "TN"
+  },
+  {
+    "id": 340,
+    "station_name": "Madhupur",
+    "station_code": "MDP"
+  },
+  {
+    "id": 341,
+    "station_name": "Nizamabad",
+    "station_code": "NZB"
+  },
+  {
+    "id": 342,
+    "station_name": "Samastipur",
+    "station_code": "SPJ"
+  },
+  {
+    "id": 343,
+    "station_name": "Mdu",
+    "station_code": "NIZAM"
+  },
+  {
+    "id": 344,
+    "station_name": "Uddin",
+    "station_code": "NZM"
+  },
+  {
+    "id": 345,
+    "station_name": "Bp",
+    "station_code": "UDHAM"
+  },
+  {
+    "id": 346,
+    "station_name": "Pur",
+    "station_code": "UHP"
+  },
+  {
+    "id": 347,
+    "station_name": "Md",
+    "station_code": "NO"
+  },
+  {
+    "id": 348,
+    "station_name": "Bpy",
+    "station_code": "UDHNA"
+  },
+  {
+    "id": 349,
+    "station_name": "Mahbubnagar",
+    "station_code": "MBNR"
+  },
+  {
+    "id": 350,
+    "station_name": "Mr",
+    "station_code": "UDUP"
+  },
+  {
+    "id": 351,
+    "station_name": "Mahuva",
+    "station_code": "MHV"
+  },
+  {
+    "id": 352,
+    "station_name": "Odlabari",
+    "station_code": "ODB"
+  },
+  {
+    "id": 353,
+    "station_name": "A Road",
+    "station_code": "AMTA"
+  },
+  {
+    "id": 354,
+    "station_name": "Okha",
+    "station_code": "OKHA"
+  },
+  {
+    "id": 355,
+    "station_name": "Una",
+    "station_code": "UNA"
+  },
+  {
+    "id": 356,
+    "station_name": "Rc",
+    "station_code": "UNCHA"
+  },
+  {
+    "id": 357,
+    "station_name": "Har",
+    "station_code": "UCR"
+  },
+  {
+    "id": 358,
+    "station_name": "Mahoba",
+    "station_code": "MBA"
+  },
+  {
+    "id": 359,
+    "station_name": "Rnt",
+    "station_code": "UNNAO"
+  },
+  {
+    "id": 360,
+    "station_name": "N Pachora",
+    "station_code": "PC"
+  },
+  {
+    "id": 361,
+    "station_name": "Tr",
+    "station_code": "VADAK"
+  },
+  {
+    "id": 362,
+    "station_name": "Ara",
+    "station_code": "BD"
+  },
+  {
+    "id": 363,
+    "station_name": "Majn",
+    "station_code": "PA"
+  },
+  {
+    "id": 364,
+    "station_name": "Ta",
+    "station_code": "VADOD"
+  },
+  {
+    "id": 365,
+    "station_name": "Ara",
+    "station_code": "BRC"
+  },
+  {
+    "id": 366,
+    "station_name": "Anpur",
+    "station_code": "PNU"
+  },
+  {
+    "id": 367,
+    "station_name": "Ap",
+    "station_code": "VA"
+  },
+  {
+    "id": 368,
+    "station_name": "Wm",
+    "station_code": "VANCH"
+  },
+  {
+    "id": 369,
+    "station_name": "Manduadih",
+    "station_code": "MUV"
+  },
+  {
+    "id": 370,
+    "station_name": "Akkad",
+    "station_code": "PGT"
+  },
+  {
+    "id": 371,
+    "station_name": "Wv",
+    "station_code": "VARAN"
+  },
+  {
+    "id": 372,
+    "station_name": "Asi",
+    "station_code": "BSB"
+  },
+  {
+    "id": 373,
+    "station_name": "Al",
+    "station_code": "MAQ"
+  },
+  {
+    "id": 374,
+    "station_name": "Pgtn",
+    "station_code": "SEALD"
+  },
+  {
+    "id": 375,
+    "station_name": "Ah",
+    "station_code": "SDAH"
+  },
+  {
+    "id": 376,
+    "station_name": "K Secunderabad",
+    "station_code": "SC"
+  },
+  {
+    "id": 377,
+    "station_name": "Kpur",
+    "station_code": "MKP"
+  },
+  {
+    "id": 378,
+    "station_name": "Pandharapur",
+    "station_code": "PVR"
+  },
+  {
+    "id": 379,
+    "station_name": "Ct",
+    "station_code": "VASCO"
+  },
+  {
+    "id": 380,
+    "station_name": "Da-Gama",
+    "station_code": "VSG"
+  },
+  {
+    "id": 381,
+    "station_name": "Mankapur",
+    "station_code": "MUR"
+  },
+  {
+    "id": 382,
+    "station_name": "Pat",
+    "station_code": "PNP"
+  },
+  {
+    "id": 383,
+    "station_name": "Cf",
+    "station_code": "VE"
+  },
+  {
+    "id": 384,
+    "station_name": "Manmad",
+    "station_code": "MMR"
+  },
+  {
+    "id": 385,
+    "station_name": "Paradeep",
+    "station_code": "PRDP"
+  },
+  {
+    "id": 386,
+    "station_name": "Egm",
+    "station_code": "VERAV"
+  },
+  {
+    "id": 387,
+    "station_name": "Al",
+    "station_code": "VRL"
+  },
+  {
+    "id": 388,
+    "station_name": "Mq",
+    "station_code": "PARA"
+  },
+  {
+    "id": 389,
+    "station_name": "Nath",
+    "station_code": "PNME"
+  },
+  {
+    "id": 390,
+    "station_name": "Mne",
+    "station_code": "PANVE"
+  },
+  {
+    "id": 391,
+    "station_name": "Hg",
+    "station_code": "VIJAY"
+  },
+  {
+    "id": 392,
+    "station_name": "Awada",
+    "station_code": "BZA"
+  },
+  {
+    "id": 393,
+    "station_name": "Manu",
+    "station_code": "MANU"
+  },
+  {
+    "id": 394,
+    "station_name": "Dnapore",
+    "station_code": "MDN"
+  },
+  {
+    "id": 395,
+    "station_name": "Rr",
+    "station_code": "WARDH"
+  },
+  {
+    "id": 396,
+    "station_name": "Aguda",
+    "station_code": "MRGA"
+  },
+  {
+    "id": 397,
+    "station_name": "Podanur",
+    "station_code": "PT"
+  },
+  {
+    "id": 398,
+    "station_name": "Yesvantpur",
+    "station_code": "YPR"
+  },
+  {
+    "id": 399,
+    "station_name": "Rzapur",
+    "station_code": "MZP"
+  },
+  {
+    "id": 400,
+    "station_name": "Porbandar",
+    "station_code": "PBR"
+  },
+  {
+    "id": 401,
+    "station_name": "Hor",
+    "station_code": "GU"
+  },
+  {
+    "id": 402,
+    "station_name": "N Zafarabad",
+    "station_code": "ZBD"
+  },
+  {
+    "id": 403,
+    "station_name": "Moga",
+    "station_code": "MOF"
+  },
+  {
+    "id": 404,
+    "station_name": "Pratapgarh",
+    "station_code": "PBH"
+  },
+  {
+    "id": 405,
+    "station_name": "Mokama",
+    "station_code": "MKA"
+  },
+  {
+    "id": 406,
+    "station_name": "Puducherry",
+    "station_code": "PDY"
+  }
+]
