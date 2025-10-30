@@ -5,7 +5,7 @@ import Login from "./pages/Login";
 import UserDetails from "./pages/UserDetails";
 
 import "./App.css";
-import BookTicketAlt from "./pages/BookTicketAlt";
+import BookTicketSimple from "./pages/BookTicketSimple";
 
 interface UserEvent {
   username: string;
@@ -106,7 +106,7 @@ const App: React.FC = () => {
             <Route path="/user-details" element={<UserDetails events={events} user={user} />} />
             <Route
               path="/book-ticket"
-              element={user ? <BookTicketAlt /> : <Login onLogin={handleLogin} />}
+              element={user ? <BookTicketSimple /> : <Login onLogin={handleLogin} />}
             />
           </Routes>
         </main>

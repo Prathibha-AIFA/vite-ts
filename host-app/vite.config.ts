@@ -11,9 +11,9 @@ export default defineConfig(({ mode }) => {
       react(),
       federation({
         name: 'host_app',
-        remotes: {
-          
+        remotes: {          
           remote_app: remoteEntry,
+          
         },
         shared: ['react', 'react-dom'],
       }),
