@@ -97,7 +97,7 @@ const BookTicketSimple: React.FC = () => {
                 <input
                   type="number"
                   min={1}
-                  max={6} //  limit for passengers
+                  max={7} //  limit for passengers
                   value={numPassengers}
                   onChange={e => setNumPassengers(Number(e.target.value))}
                 />
