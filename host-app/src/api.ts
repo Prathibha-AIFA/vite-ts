@@ -1,10 +1,7 @@
-// The base URL for our API - uses environment variable or fallback to localhost
+
 const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:4000';
 
-/**
- * Helper function to get common headers for API requests
- * Includes Content-Type and Authorization token if available
- */
+
 function getHeaders(): Record<string, string> {
   const headers: Record<string, string> = {
     'Content-Type': 'application/json'
@@ -19,9 +16,9 @@ function getHeaders(): Record<string, string> {
   return headers;
 }
 
-/**
- * Types used across multiple functions
- */
+
+ //Types used across multiple functions
+
 type EventType = 'login' | 'logout';
 
 interface EventData {
@@ -31,18 +28,16 @@ interface EventData {
 }
 
 interface BookingData {
-  from: string;      // Station code
-  to: string;        // Station code
-  date: string;      // YYYY-MM-DD format
+  from: string;     
+  to: string;        
+  date: string;      
   passengers: number;
-  cls: string;       // Class type (Economy, Business, First)
+  cls: string;       
 }
 
-/**
- * Records a user event (login/logout) in the system
- * @param event The event details to record
- * @returns Promise with the server response
- */
+
+ //Records a user event (login/logout) in the system
+
 export async function postEvent(event: EventData) {
   const res = await fetch(`${API_BASE}/api/events`, {
     method: 'POST',
@@ -52,20 +47,17 @@ export async function postEvent(event: EventData) {
   return res.json();
 }
 
-/**
- * Fetches all user events from the system
- * @returns Promise with array of events
- */
+
+ // Fetches all user events from the system
+
 export async function fetchEvents() {
   const res = await fetch(`${API_BASE}/api/events`);
   return res.json();
 }
 
-/**
- * Books a new train ticket
- * @param data The booking details (from/to stations, date, etc)
- * @returns Promise with booking confirmation
- */
+
+ //Books a new train ticket
+ 
 export async function postBooking(data: BookingData) {
   const res = await fetch(`${API_BASE}/api/bookings`, {
     method: 'POST',
@@ -75,10 +67,9 @@ export async function postBooking(data: BookingData) {
   return res.json();
 }
 
-/**
- * Fetches all bookings for the current user
- * @returns Promise with array of bookings
- */
+
+ //Fetches all bookings for the current user
+
 export async function fetchBookings() {
   const res = await fetch(`${API_BASE}/api/bookings`, {
     headers: getHeaders()
@@ -86,13 +77,9 @@ export async function fetchBookings() {
   return res.json();
 }
 
-/**
- * Searches for railway stations based on a query string
- * @param query Search text (station name or code)
- * @param page Page number for pagination (starts at 1)
- * @param limit Number of results per page
- * @returns Promise with paginated station results
- */
+
+ //Searches for railway stations based on a query string
+
 export async function fetchStations(query = '', page = 1, limit = 50) {
   // Build query parameters in a safe way
   const params = new URLSearchParams({
@@ -105,13 +92,9 @@ export async function fetchStations(query = '', page = 1, limit = 50) {
   return res.json();
 }
 
-/**
- * Creates a new user account
- * @param username Username for the new account
- * @param email Email address for the new account
- * @param password Password for the new account
- * @returns Promise with registration result
- */
+
+ //Creates a new user account
+
 export async function apiRegister(username: string, email: string, password: string) {
   const res = await fetch(`${API_BASE}/api/auth/register`, {
     method: 'POST',
@@ -121,12 +104,9 @@ export async function apiRegister(username: string, email: string, password: str
   return res.json();
 }
 
-/**
- * Logs in an existing user
- * @param email User's email address
- * @param password User's password
- * @returns Promise with login result (including auth token)
- */
+
+ //Logs in an existing user
+ 
 export async function apiLogin(email: string, password: string) {
   const res = await fetch(`${API_BASE}/api/auth/login`, {
     method: 'POST',

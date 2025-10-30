@@ -64,6 +64,7 @@ const StationSelect: React.FC<StationSelectProps> = ({ selected, onSelect, place
       setHasMoreResults(true);     // Reset "load more" state
       setStationsList([]);         // Clear previous results
     }, 300); // Wait 300ms after last keystroke
+    
 
     // Cleanup: clear timer if component unmounts or input changes again
     return () => {
