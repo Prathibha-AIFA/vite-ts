@@ -1,0 +1,169 @@
+.book-alt-container {
+  min-height: 100vh;
+  padding: 2rem;
+  background: linear-gradient(135deg, #f5f7fa 0%, #e4e7eb 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.book-alt-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  overflow: hidden;
+  margin: 2rem;
+}
+
+.form-side {
+  flex: 1;
+  padding: 2.5rem;
+  border-right: 1px solid #e0e0e0;
+}
+
+.summary-side {
+  width: 350px;
+  background: #f8fafc;
+  padding: 2.5rem;
+}
+
+.book-alt-title {
+  font-size: 1.8rem;
+  color: #1a365d;
+  margin-bottom: 2rem;
+  font-weight: 600;
+}
+
+.booking-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.field span {
+  font-size: 0.9rem;
+  color: #4a5568;
+  font-weight: 500;
+}
+
+.field input,
+.field select {
+  padding: 0.75rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: all 0.2s;
+}
+
+.field input:focus,
+.field select:focus {
+  border-color: #4299e1;
+  box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.15);
+  outline: none;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.actions {
+  margin-top: 1rem;
+}
+
+button {
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+button.primary {
+  background: #3182ce;
+  color: white;
+  border: none;
+  width: 100%;
+}
+
+button.primary:hover {
+  background: #2c5282;
+  transform: translateY(-1px);
+}
+
+button.secondary {
+  background: #edf2f7;
+  color: #2d3748;
+  border: 1px solid #e2e8f0;
+}
+
+button.secondary:hover {
+  background: #e2e8f0;
+}
+
+.summary-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.summary-card h3 {
+  color: #2d3748;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+}
+
+.muted {
+  color: #718096;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.summary-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.row-item {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px dashed #e2e8f0;
+}
+
+.cta {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .book-alt-card {
+    flex-direction: column;
+    margin: 1rem;
+  }
+
+  .summary-side {
+    width: 100%;
+  }
+
+  .form-side {
+    padding: 1.5rem;
+  }
+
+  .row {
+    grid-template-columns: 1fr;
+  }
+}

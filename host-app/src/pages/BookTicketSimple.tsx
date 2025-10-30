@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { postBooking } from '../api';
 import StationSelectSimple from '../components/StationSelectSimple';
+import './BookTicketSimple.css';
 
 
 interface Station {
